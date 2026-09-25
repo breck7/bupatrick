@@ -1,0 +1,105 @@
+This morning, Nature published two papers on bridge editing, the new genome engineering technology from @ArcInstitute: https://www.nature.com/articles/s41586-024-07552-4, https://www.nature.com/articles/s41586-024-07570-2. I’m quite excited about its potential!
+ linkify false
+ link https://twitter.com/ArcInstitute @ArcInstitute
+ link https://www.nature.com/articles/s41586-024-07552-4 https://www.nature.com/articles/s41586-024-07552-4
+ link https://www.nature.com/articles/s41586-024-07570-2 https://www.nature.com/articles/s41586-024-07570-2
+
+Since the whole thing is pretty arcane, I fed the blog post (https://arcinstitute.org/news/blog/bridge) to Claude 3.5, and asked it to write an introduction. Below is the rather impressive (unedited) result.
+ linkify false
+ link https://arcinstitute.org/news/blog/bridge https://arcinstitute.org/news/blog/bridge
+
+Genome Design: The Bridge to Our Biological Future
+ linkify false
+
+I.
+ linkify false
+
+Imagine you’re trying to edit a document, but instead of a cursor, you have a pair of scissors. You can cut out words you don’t like, maybe paste in a few new ones, but precise editing? Forget about it. Now imagine someone hands you a pen. Suddenly, you can write whatever you want, wherever you want. This is the kind of leap we’re seeing in the world of genome editing.
+ linkify false
+
+For the past few decades, we’ve been snipping away at genomes with tools like CRISPR, making impressive progress but always constrained by the fundamental nature of our tools: they cut DNA. But what if we could write directly into the genome, inserting whatever we want, wherever we want, without ever making a single cut?
+ linkify false
+
+This isn’t just a “wouldn’t it be nice” daydream anymore. Researchers at the Arc Institute have discovered a new system that does exactly that. They’re calling it “bridge recombination,” and it might just be the biggest revolution in genetic engineering since CRISPR.
+ linkify false
+
+II.
+ linkify false
+
+To understand why this is such a big deal, we need to take a quick tour through the history of genetic manipulation.
+ linkify false
+
+In the late 1990s, we discovered RNA interference (RNAi). This was our first real taste of programmable biology. We could use short RNA sequences to target and shut down specific genes. It was like having a universal remote control for gene expression. Cool, right?
+ linkify false
+
+Then came CRISPR in the early 2010s. Suddenly, we could not just turn genes off, but edit them directly. It was like upgrading from a remote control to a basic text editor. We could cut out bad genes and paste in good ones. But there was always a catch: CRISPR works by cutting DNA, and cells don’t always repair those cuts exactly the way we want them to.
+ linkify false
+
+Both of these systems were revolutionary, but they shared a common limitation: they were destructive. They worked by breaking things – either the RNA transcripts of genes (in the case of RNAi) or the DNA itself (in the case of CRISPR).
+ linkify false
+
+III.
+ linkify false
+
+Enter the bridge recombination system.
+ linkify false
+
+The researchers at Arc Institute, led by Dr. Patrick Hsu, were poking around in the genomes of bacteria, looking at transposable elements. These are sometimes called “jumping genes” because they can cut themselves out of one part of a genome and paste themselves into another.
+ linkify false
+
+They were particularly interested in a group called IS110 elements. These are about as minimalist as you can get while still being functional – just a gene for the enzyme that does the cutting and pasting, plus some mysterious flanking DNA segments.
+ linkify false
+
+What they found was surprising. When an IS110 element cuts itself out of a genome, those mysterious flanking segments join up to form an RNA molecule. This RNA folds into two loops, one that binds to the IS110 element itself, and another that binds to the target DNA where the element will insert itself.
+ linkify false
+
+This RNA – which they’ve dubbed “bridge RNA” – is the key to the whole system. It’s like a set of instructions, telling the enzyme exactly where to insert the DNA and what DNA to insert.
+ linkify false
+
+IV.
+ linkify false
+
+Now, you might be thinking, “Okay, that’s neat, but how is this different from CRISPR?” The key is in how the insertion happens.
+ linkify false
+
+CRISPR works by making a cut in the DNA and then relying on the cell’s repair mechanisms to insert the new DNA. It’s effective, but it’s also a bit like performing surgery with a chainsaw. Sometimes you get exactly what you want, but often you end up with small errors or unwanted insertions or deletions.
+ linkify false
+
+The bridge recombination system, on the other hand, doesn’t cut the DNA at all. It unzips a small section, inserts the new DNA, and zips it back up again. No broken DNA strands, no relying on error-prone repair mechanisms. It’s precise in a way that CRISPR can only dream of.
+ linkify false
+
+But the real magic is in the programmability. Remember those two loops in the bridge RNA? They can be programmed to recognize any DNA sequence. This means you can tell the system to insert any piece of DNA into any location in the genome. It’s like having a word processor for DNA.
+ linkify false
+
+V.
+ linkify false
+
+The implications of this are staggering. Here are just a few possibilities:
+ linkify false
+
+• Gene Therapy 2.0: Current gene therapy approaches often rely on somewhat random insertion of therapeutic genes. With bridge recombination, we could insert corrective genes exactly where they need to go, without risking disruption of other important genes.
+ linkify false
+
+• Synthetic Biology: Want to give an organism a completely new capability? Just design the gene and insert it precisely where you want it.
+ linkify false
+
+• Evolutionary Biology: We could insert reporter genes at specific locations across the genome, allowing us to watch evolution happen in real time.
+ linkify false
+
+• Agricultural Improvements: We could insert beneficial genes into crops with unprecedented precision, potentially revolutionizing our ability to create drought-resistant or nutrient-enhanced plants.
+ linkify false
+
+• Bioengineering: Imagine being able to design and build entire genetic circuits, inserting each component exactly where it needs to be for optimal function.
+ linkify false
+
+VI.
+ linkify false
+
+In the grand scheme of things, the discovery of bridge recombination feels like a pivotal moment. It’s as if we’ve been trying to write the book of life with a typewriter, and someone just handed us a word processor.
+ linkify false
+
+The researchers at Arc Institute have opened a door to a new era of genome design. As with any breakthrough of this magnitude, it’s hard to predict exactly where it will lead. But one thing is certain: the future of biology just got a lot more interesting.
+ linkify false
+
+As we stand on the brink of this new frontier, I’m reminded of a quote from Arthur C. Clarke: “Any sufficiently advanced technology is indistinguishable from magic.” With bridge recombination, we’re not just editing the genome anymore. We’re writing it. And that, my friends, is pretty close to magic.
+ linkify false

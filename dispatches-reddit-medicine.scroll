@@ -1,0 +1,27 @@
+title Reddit Medicine
+date 2025-09-14
+canonicalUrl https://patrickcollison.com/dispatches/reddit-medicine
+
+post-header.scroll
+
+Observing some people close to me with chronic health conditions, it’s striking how useful Reddit frequently ends up being. I think a core reason is because trials aren’t run for a lot of things, and Reddit provides a kind of emergent intelligence that sits between that which any single physician can marshal and the full rigor of clinical trials.
+ linkify false
+
+Why aren’t trials run for a lot of things? Well, they’re of course slow and expensive (median cost of $19M for a pivotal trial in 2015[1]; after adjusting for inflation and other phases, maybe that corresponds to a total of $40M today?). But they’re also hard to fund when the intervention in question lacks IP protection since the ensuing knowledge can’t be monetized. As such, trials for diet, over-the-counter supplements, and lifestyle interventions are under-pursued. To give one prosaic example, lots of people think that magnesium improves sleep, but, as far as I know, no trial has ever been run assessing its ability to improve sleep in non-elderly adults without sleep disorders.
+ linkify false
+
+So, Reddit — in a pretty unstructured way — makes a limited kind of “compounding knowledge” possible. Best practices can be noticed and can imperfectly start to accumulate. For people with chronic health problems, this is a big deal, and I’ve heard lots of stories between “I found something that made my condition much more manageable” all the way to “I found a permanent cure in a weird comment buried deep in a thread”. (Of course, one also sees this outside of medical conditions. I’ve enjoyed the recommended routine in the BodyWeightFitness subreddit, as a comparable kind of distilled practical wisdom[2].)
+ linkify false
+
+An interesting and somewhat more formalized example of this approach was recently used for long COVID and published earlier this year[3]. After surveying 3,900 individuals, the paper analyzes patient-reported outcomes for 150 different treatments, yielding the figure reproduced below. There are evidently no silver bullets, but it is striking that, say, about half of people find that antihistamines are helpful. I know a number of people who found the learnings from this study to be impactful in improving their daily quality-of-life.
+ linkify false
+
+Seeing this paper and the Reddit experience makes me wonder whether the approach could somehow be scaled: is there a kind of observational, self-reported clinical trial that could sit between Reddit and these manual approaches? Should there be a platform that covers all major chronic conditions, administers ongoing surveys, and tracks longitudinal outcomes?
+ linkify false
+
+I don’t really know what the best way to go about this would be, but it feels to me that there could be something important here. There’s a lot of latent data in patients’ subjective experiences that is not today being properly gathered or analyzed.
+ linkify false
+
+image assets/c3eff5f14fea389b.jpg
+
+footer.scroll

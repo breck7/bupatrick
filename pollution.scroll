@@ -1,0 +1,56 @@
+// publicationLabel Date not stated
+title Pollution
+date 1900-01-01
+canonicalUrl https://patrickcollison.com/pollution
+
+post-header.scroll
+
+Air pollution is a very big deal. Its adverse effects on numerous health outcomes and general mortality are widely documented. However, our understanding of its cognitive costs is more recent and those costs are almost certainly still significantly under-emphasized. For example, cognitive effects are not mentioned in most EPA materials.
+ linkify false
+ link https://ourworldindata.org/air-pollution widely documented
+ italics cognitive
+ link https://www.epa.gov/clean-air-act-overview/air-pollution-current-and-future-challenges not
+ link https://www3.epa.gov/airnow/aqi_brochure_02_14.pdf mentioned
+
+World Bank data indicate that 3.7 billion people, about half the world's population, are exposed to more than 50 µg/m³ of PM2.5 on an annual basis, 5x the unit of measure for most of the findings below.
+ linkify false
+ link https://data.worldbank.org/indicator/en.atm.pm25.mc.m3?most_recent_value_desc=true World Bank data
+
+- A 2019 OECD paper analyzing European satellite data estimates "that a 1 µg/m³[!] increase in PM2.5 concentration (or a 10% increase at the sample mean) causes a 0.8% reduction in real GDP that same year. Ninety-five per cent of this impact is due to reductions in output per worker, which can occur through greater absenteeism at work or reduced labour productivity."
+ linkify false
+ link http://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=ECO/WKP(2019)54&amp;docLanguage=En 2019 OECD paper
+
+- Chess players make more mistakes on polluted days: "We find that an increase of 10 µg/m³ raises the probability of making an error by 1.5 percentage points, and increases the magnitude of the errors by 9.4%. The impact of pollution is exacerbated by time pressure. When players approach the time control of games, an increase of 10 µg/m³, corresponding to about one standard deviation, increases the probability of making a meaningful error by 3.2 percentage points, and errors being 17.3% larger." – Künn et al 2019.
+ linkify false
+ link http://conference.iza.org/conference_files/environ_2019/palacios_j24419.pdf Künn et al 2019
+
+- A 3.26x (albeit with very wide CI) increase in Alzheimer's incidence for each 10 µg/m³ increase in long-term PM2.5 exposure? "Short- and long-term PM2.5 exposure was associated with increased risks of stroke (short-term odds ratio 1.01 [per µg/m³ increase in PM2.5 concentrations], 95% CI 1.01-1.02; long-term 1.14, 95% CI 1.08-1.21) and mortality (short-term 1.02, 95% CI 1.01-1.04; long-term 1.15, 95% CI 1.07-1.24) of stroke. Long-term PM2.5 exposure was associated with increased risks of dementia (1.16, 95% CI 1.07-1.26), Alzheimer's disease (3.26, 95% 0.84-12.74), ASD (1.68, 95% CI 1.20-2.34), and Parkinson's disease (1.34, 95% CI 1.04-1.73)." – Fu et al 2019. Similar effects are seen in Bishop et al 2018: "We find that a 1 µg/m³ increase in decadal PM2.5 increases the probability of a dementia diagnosis by 1.68 percentage points."
+ linkify false
+ link https://www.ncbi.nlm.nih.gov/pubmed/30577116 Fu et al 2019
+ link https://pdfs.semanticscholar.org/615f/6b7cf7e9ce6e14b1eb4f2c71fbcc271b8d13.pdf Bishop et al 2018
+
+- A study of 20,000 elderly women concluded that "the effect of a 10 µg/m³ increment in long-term [PM2.5 and PM10] exposure is cognitively equivalent to aging by approximately 2 years". – Weuve et al 2013.
+ linkify false
+ link https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3622279/ Weuve et al 2013
+
+- "Utilizing variations in transitory and cumulative air pollution exposures for the same individuals over time in China, we provide evidence that polluted air may impede cognitive ability as people become older, especially for less educated men. Cutting annual mean concentration of particulate matter smaller than 10 µm (PM10) in China to the Environmental Protection Agency’s standard (50 µg/m³) would move people from the median to the 63rd percentile (verbal test scores) and the 58th percentile (math test scores), respectively." – Zhang et al 2018.
+ linkify false
+ link https://www.pnas.org/content/115/37/9193 Zhang et al 2018
+
+- Stock market returns are lower on polluted days. "This estimate indicates that a one unit increase in PM2.5 decreases the daily percentage returns by 1.7%. Put differently, a one standard deviation increase in PM2.5 decreases the daily percentage returns by 11.9%, a substantial effect on daily NYSE returns." Hayes et al 2016.
+ linkify false
+ link https://www.nber.org/papers/w22753.pdf Hayes et al 2016
+
+- Baseball umpires make worse decisions on polluted days. "Unique characteristics of this setting combined with high-frequency data disentangle effects of multiple pollutants and identify previously under-explored acute effects. We find a 1 ppm increase in 3 hour CO causes an 11.5% increase in the propensity of umpires to make incorrect calls and a 10 µg/m³ increase in 12-hour PM2.5 causes a 2.6% increase." Archsmith et al 2018.
+ linkify false
+ link https://www.journals.uchicago.edu/doi/abs/10.1086/698728 Archsmith et al 2018
+
+- Politicians use less complex speech on polluted days. "We apply textual analysis to convert over 100,000 verbal statements made by Canadian MPs from 2006 through 2011 into—among other metrics—speech-specific Flesch-Kincaid grade-level indices. This index measures the complexity of an MP’s speech by the number of years of education needed to accurately understand it. Conditioning on individual fixed effects and other controls, we show that elevated levels of airborne fine particulate matter reduce the complexity of MPs’s speeches. A high-pollution day, defined as daily average PM2.5 concentrations greater than 15 µg/m³, causes a 2.3% reduction in same-day speech quality. To put this into perspective, this is equivalent to the removal of 2.6 months of education." Heyes et al 2019.
+ linkify false
+ link https://muse.jhu.edu/article/721064/pdf Heyes et al 2019
+
+- "Exposure to CO2 and VOCs at levels found in conventional office buildings was associated with lower cognitive scores than those associated with levels of these compounds found in a Green building." – Allen et al 2016. The effect seems to kick in at around 1,000 ppm of CO2.
+ linkify false
+ link https://dash.harvard.edu/bitstream/handle/1/27662232/4892924.pdf?sequence=1 Allen et al 2016
+
+footer.scroll
