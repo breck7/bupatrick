@@ -1,0 +1,47 @@
+Date not stated
+About
+=====
+
+[Image Omitted]
+
+I live in California and mainly work on Stripe, which builds programmable financial infrastructure. I cofounded the Arc Institute, which trains biology AI models and works on complex human diseases. I grew up in Ireland and previously studied at MIT.
+
+Email: patrick@collison.ie.
+
+Things I'm interested in:
+
+- Economic growth. Stripe's core mission, so I think about it a lot.
+
+- Entrepreneurship. Stripe Atlas helps many new companies get started. (Around a quarter of new Delaware corporations, as of mid 2026.)
+
+- Capital. Private equity, private credit, and capital markets generally don't exactly have burnished reputations, but I believe that US outperformance post the GFC (vs the rest of the OECD) is substantially attributable to more abundant capital in the US. What are the policy implications of this for the rest of the world? And how can the US be improved still further here?
+
+- Europe. It's currently off-track, falling behind the US in key technologies and general prosperity. What can be done?
+
+- Aesthetics. Why is contemporary architecture so ugly? What comes after modernism? Tyler Cowen and I started the New Aesthetics grant program.
+
+- Urbanism. Why did we seemingly lose the ability to build pleasant new cities? Why are Greenwich Village or the North End so much nicer than any neighborhoods built in the US over the past century? What can we do about it? I'm an investor in California Forever and Esmeralda, which are in different ways trying to tackle this problem.
+
+- Religion. We live in a post-Christian West, but the need for metaphysics hasn't diminished (and the rest of the world is not so secular). AI raises new questions still. Where will we go next?
+
+- Climate. We still need to not overheat! Stripe started Frontier, which is the largest coalition of carbon removal purchasers in the world.
+
+- Policy. I often agree with those of a supply-side, free market, and abundance-oriented persuasion. I appreciate the work of Progress Ireland and the Institute for Progress.
+
+- Books and ideas. Stripe Press and Works in Progress both publish on the theme of economic and technological advancement. Tyler Cowen and I helped start Progress Studies. Why did the age of the great novel pass? Are we becoming a post-literate society? (What would Walter Ong think of the current moment?)
+
+- Science. How can science be better funded and supported? How do we enable the smartest researchers most effectively? What needs to change as new platform technologies (including but not only AI) transform what's possible? Arc Institute is a new way to do biomedical research. Intercept is trying to eliminate respiratory infections. Fast Grants distributed substantial amounts to scientists during the COVID pandemic.
+
+Elsewhere
+=========
+
+pc on GitHub; patrickc on Twitter.
+
+Interviews
+==========
+
+A few interviews from the past few years. They're mostly about Stripe but other topics make their way in too:
+
+- Interviews: Michael Truell (2025), Dwarkesh Patel (2024), Ezra Klein (2022), Noah Smith (2021), Reid Hoffman (2019), Guy Raz (2018), Shane Parrish (2018; transcript), Tim Ferriss (2018; transcript), John Lilly (2015).
+
+- I interview: Tyler Cowen, Jony Ive, Jensen Huang.

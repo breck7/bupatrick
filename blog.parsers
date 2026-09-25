@@ -1,0 +1,71 @@
+// Site-specific behavior; shared parsers live in bu.scroll.
+
+printArchiveParser
+ extends abstractTableVisualizationParser
+ cue printArchive
+ javascript
+  buildHtml() {
+   const groups = new Map()
+   for (const post of this.parent.coreTable) {
+    const program = this.root.allScrollFiles.find(file => file.scrollProgram.permalink === post.permalink)?.scrollProgram
+    post.publicationLabel = (program?.get("//") || "").replace(/^publicationLabel /, "")
+    if (post.publicationLabel === "Date not stated") post.year = "Undated"
+    if (!groups.has(post.year)) groups.set(post.year, [])
+    groups.get(post.year).push(post)
+   }
+   const source = [...groups].sort((a,b) => a[0] === "Undated" ? 1 : b[0] === "Undated" ? -1 : Number(b[0])-Number(a[0])).map(([year, posts]) => {
+    const rows = posts.map(post => {
+     const date = post.publicationLabel === "Date not stated" || /^\d{4}$/.test(post.publicationLabel) ? "" : this.root.dayjs(post.date).format("MMM")
+     return `  a\n   href ${post.permalink}\n   addClass post-row\n   time ${date}\n    datetime ${post.publicationLabel === "Date not stated" ? "" : this.root.dayjs(post.date).format("YYYY-MM-DD")}\n   span ${post.title}\n    addClass post-title\n   span ${post.minutes} min\n    addClass read-time\n   span ↗\n    addClass row-arrow\n    aria-hidden true`
+    }).join("\n")
+    return `section\n addClass year-group\n data-year ${year}\n aria-label Writing from ${year}\n h3 ${year}\n div\n  addClass year-posts\n${rows}`
+   }).join("\n")
+   const particles = this.root.concat(source)
+   const html = particles.map(particle => particle.buildHtml()).join("\n")
+   particles.forEach(particle => particle.destroy())
+   return html
+  }
+
+originalLinkParser
+ extends scrollLinkParser
+ cue originalLink
+ atoms cueAtom
+ javascript
+  get link() {
+   const url = this.root.get("canonicalUrl") || ""
+   return /^https?:\/\//.test(url) ? url : this.root.get("originalBlogUrl")
+  }
+
+viewSourceParser
+ extends editLinkParser
+ cue viewSource
+ string text View source
+ javascript
+  get link() { return this.root.filename }
+  buildTxt() { return "" }
+
+blogTextLinkParser
+ extends scrollLinkParser
+ cue link
+ javascript
+  buildTxt() { return "" }
+
+
+originalBlogUrlParser
+ extends abstractUrlSettingParser
+
+patrickPrintDateParser
+ extends printDateParser
+ cue printDate
+ javascript
+  get day() { return this.root.get("//") === "publicationLabel Date not stated" ? "Date not stated" : this.root.dayjs(this.root.get("date")).format("MMMM D, YYYY") }
+
+patrickPostsParser
+ extends scrollPostsParser
+ cue posts
+ javascript
+  postToRow(file) {
+   const row = super.postToRow(file)
+   if (file.file.scrollProgram.get("//") === "publicationLabel Date not stated") { row.date = ""; row.year = "Undated" }
+   return row
+  }

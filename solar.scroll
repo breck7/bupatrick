@@ -1,0 +1,38 @@
+// publicationLabel Date not stated
+title Solar
+date 1900-01-01
+canonicalUrl https://patrickcollison.com/solar
+
+post-header.scroll
+
+I spent some time (in Fall 2023) reading about solar deployment. Some facts that struck me:
+ linkify false
+
+- Solar deployment is now running at about $500 billion per year, which means that about 0.5% of global GDP is being spent on solar deployment. This figure is up an improbable 43% Y/Y. Source: BloombergNEF
+ linkify false
+ link https://about.bnef.com/blog/renewable-energy-investment-hits-record-breaking-358-billion-in-1h-2023/ BloombergNEF
+
+- If one takes at face value the estimate that the world will deploy 300–400 GW of solar in 2023 (IEA), and that 1 MW of solar =~ 5 acres, we're deploying roughly 3–4 acres of solar per minute.
+ linkify false
+ link https://www.iea.org/reports/renewable-energy-market-update-june-2023/executive-summary IEA
+
+- 54% (29.1 GW) of the new electricity generation capacity in the US in 2023 will be solar. The next biggest category is battery storage. We'll add more than 4x more solar than natural gas, the leading fossil fuel-based category. Source: EIA
+ linkify false
+ link https://www.eia.gov/todayinenergy/detail.php?id=55419 EIA
+ - As of September, the estimate increased to 32 GW, representing a 52% increase over 2022.
+  linkify false
+  link https://www.solarpowerworldonline.com/2023/09/2023-will-be-the-biggest-installation-year-for-solar-in-the-united-states-ever/ increased
+
+- In the EU, solar additions in 2022 (41 GW) were up 47% from 2021 (28 GW). Source: SolarPower Europe
+ linkify false
+ link https://www.solarpowereurope.org/press-releases/new-report-reveals-eu-solar-power-soars-by-almost-50-in-2022 SolarPower Europe
+
+- At peak, renewables provide up to ~90% of California's electricity. Of renewable sources in California, solar is by far the largest. Source: GridStatus.io
+ linkify false
+ link https://www.gridstatus.io/live/caiso GridStatus.io
+
+- In Spain, electricity provided by solar increased 8 percentage points Y/Y, from 16% to 24%. Source: Reuters
+ linkify false
+ link https://www.reuters.com/sustainability/climate-energy/solar-power-rescue-europes-energy-system-weathers-extreme-heat-2023-08-07/ Reuters
+
+footer.scroll

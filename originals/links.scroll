@@ -1,0 +1,38 @@
+span
+ id content
+
+The links post is an underrated artifact. These people produce links roundups that I particularly enjoy. Know of any that I'm missing? Let me know!
+ linkify false
+ link mailto:patrick@collison.ie Let me know
+
+- Scott Alexander.
+ linkify false
+ link https://www.astralcodexten.com/ Scott Alexander
+
+- Sam Enright.
+ linkify false
+ link https://samenright.substack.com/ Sam Enright
+
+- Gwern.
+ linkify false
+ link https://www.gwern.net/tags/newsletter Gwern
+
+- Alexey Guzey.
+ linkify false
+ link https://guzey.com/knowledge/links/ Alexey Guzey
+
+- Dan Lemire. (Science news posts; weekly-ish.)
+ linkify false
+ link https://lemire.me/blog/ Dan Lemire
+
+- Marginal Revolution.
+ linkify false
+ link https://marginalrevolution.com/?s=assorted+links Marginal Revolution
+
+- Luke Muehlhauser. (Can't link only to his quarterly posts.)
+ linkify false
+ link http://lukemuehlhauser.com/ Luke Muehlhauser
+
+- Jose Luis Ricón.
+ linkify false
+ link https://nintil.com/categories/links/ Jose Luis Ricón

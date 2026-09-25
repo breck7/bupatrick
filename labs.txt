@@ -1,0 +1,39 @@
+Date not stated
+Labs
+====
+
+Some materials about successful industrial/applied research labs. I recommend all of them. Further recommendations very welcome. Also, does it just seem that their heyday is past, or has something structurally changed?
+
+- Dealers of Lightning. The definitive book about PARC.
+
+- Inside PARC: the 'information' architects (IEEE Spectrum, Oct 1985). Good article about PARC.
+
+- Interview with Bob Taylor (and another), who ran the PARC CS Lab.
+
+- The Idea Factory. The definitive book about Bell Labs. (There should be more...)
+
+- The Art of Doing Science and Engineering. Only indirectly about Bell Labs but so good that you should read it anyway.
+
+- Tuxedo Park. Book about the MIT Rad Lab, among other things. (Also worth reading Endless Frontier. Broader influence of NDRC is underestimated, as far as I can tell.)
+
+- MIT's Building 20: "The Magical Incubator". Transcript of a talk about Building 20.
+
+- Funding Breakthrough Research: Promises and Challenges of the “ARPA Model”. An analysis of what the ARPA model is and why it might work.
+
+- The Dream Machine. Book about ARPA, Licklider, and the creation of the internet.
+
+- The Power of the Context. Alan Kay's reflections on ARPA and PARC.
+
+- The Making of the Atomic Bomb. Book about the Manhattan Project.
+
+- Skunk Works. The Lockheed Martin facility behind the U-2, SR-71, etc. (See also: Kelly Johnson's 14 Rules, Kelly Johnson's own memoir, Augustine's Laws, Boyd, and National Defense.)
+
+- Organizing Genius: an exploration of commonalities across the Manhattan Project, Black Mountain College, Skunk Works, etc. Demis from DeepMind commented that it accords with how he manages the company.
+
+- Sidewinder. A history of the development of the Sidewinder missile and of the China Lake Navy research lab.
+
+- Scene of Change. Personal account from Rockefeller Foundation's Warren Weaver. (Worked with Bush at NDRC during WWII; helped fund Green Revolution; funded most of the Nobel-winning molecular biologists.) Worth a quick skim—some good passages.
+
+- Alvarez: Adventures Of A Physicist. Luis Alvarez's first-hand account of participating in the development of GCA, radar, and the Manhattan Project.
+
+- Doing the Impossible. How George Mueller managed the Apollo Program.

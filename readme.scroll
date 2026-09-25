@@ -1,0 +1,81 @@
+// 
+
+// Welcome, humans!
+ This is an empty writing archive you can copy for anyone. It includes the shared
+ layout, search, sorting, keyboard navigation, and HTML/plain-text exports.
+
+// Create a person's folder
+ From the parent bu directory:
+  python3 bunew/scripts/new_person.py bubill "Bill Gates" https://www.gatesnotes.com/
+  cd bubill
+  npm install
+  npm run build
+  npm run check
+  npm run serve
+ Open http://localhost:8000. Existing folders are never overwritten.
+ Or copy bunew manually and edit site.json and the package name in package.json.
+ site.json sets the site name, author, original URL, and optional published baseUrl.
+ Builds regenerate head.scroll, search.scroll, and the page below these comments.
+ These opening comments are preserved; page template changes go in scripts/configure.py.
+
+// Port someone's writing
+ Save original pages in originals/ and images in assets/.
+ Convert each article body to originals/<slug>.scroll using native Scroll paragraphs,
+ headings, lists, and links. Leave out page metadata and header/footer includes.
+ Use assets/image.jpg for local images. Fetching and conversion depend on the source
+ website; scripts/import_blog.py accepts Scroll bodies, not arbitrary web pages.
+ Add each article to archive.json:
+  [
+    {"slug": "article-slug", "title": "Article title", "date": "2026-01-01", "url": "https://example.com/article-slug"}
+  ]
+ Run npm run import, npm run build, then npm run check.
+ Reimporting replaces matching post sources. To remove a post, remove its manifest
+ entry and its .scroll, .html, and .txt files before rebuilding.
+ You can also write top-level <slug>.scroll files directly: title, date, canonicalUrl,
+ then post-header.scroll, the body, and footer.scroll. Keep archive.json aligned.
+
+// Style and publish
+ bu.scroll is the shared layout; blog.parsers supplies archive and source links.
+ Run the parent's ./update.sh to sync bu.scroll into all person folders, then rebuild.
+ style.css and site.js are generated from style.scroll and site.scroll.
+ Upload the built folder to a static host. .nojekyll supports GitHub Pages; add CNAME
+ only when you choose a domain. Nothing deploys automatically.
+ Clone URLs follow https://github.com/breck7/<site name>; adjust bu.scroll if needed.
+
+// Patrick Collison source import
+ Imported from https://patrickcollison.com/ on 2026-09-25.
+ 23 dated dispatches and 14 undated reference pages; the duplicate dispatches index
+ and empty home navigation are excluded. Original HTML is in originals/html/.
+ 15 article images are saved in assets/. Reference links retain their original URLs.
+ Undated records use undated: true and 1900-01-01 only as an internal sort key.
+ The article date says Date not stated, the archive groups them under Undated,
+ and search exports and HTML datetime attributes leave their dates blank.
+ Refresh with Python packages beautifulsoup4 and html5lib installed, plus curl:
+  python3 scripts/fetch_source.py
+  python3 scripts/convert_source.py
+  python3 scripts/fetch_images.py
+  npm run import
+  npm run build
+  npm run check
+  python3 scripts/verify_source.py
+ No deployment or GitHub repository has been created.
+
+title bupatrick — Archive
+description boo Patrick Collison. made by @breckyunits
+permalink index.html
+canonicalUrl https://patrickcollison.com/
+buildHtml
+head.scroll
+
+container 1120px
+ id main
+ role main
+ addClass archive
+
+# All posts
+ id archive-heading
+
+BU_ARCHIVE
+clearStack
+homeFooter.scroll
+site.js

@@ -1,0 +1,15 @@
+April 17, 2026
+Genome Agents
+=============
+
+I’m lucky enough to have a great doctor and access to excellent Bay Area medical care. I’ve taken lots of standard screening tests over the years and have tried lots of “health tech” devices and tools.
+
+With all this said, by far the most useful preventative medical advice that I’ve ever received has come from unleashing coding agents on my genome, having them investigate my specific mutations, and having them recommend specific follow-on tests and treatments.
+
+Population averages are population averages, but we ourselves are not averages. For example, it turns out that I probably have a 30x(!) higher-than-average predisposition to melanoma. It turns out that there are both specific supplements that help counteract the particular mutations I have, and of course I can significantly dial up my screening frequency. So, this is very useful to know.
+
+I don’t know exactly how much the analysis cost, but probably less than $100. Sequencing my genome cost a few hundred dollars.
+
+(One often sees papers and articles claiming that models aren’t very good at medical reasoning. These analyses are usually based on employing several-year-old models, which is a kind of ludicrous malpractice. It is true that you still have to carefully monitor the agents’ reasoning, and they do on occasion jump to conclusions or skip steps, requiring some nudging and re-steering. But, overall, they are almost literally infinitely better for this kind of work than what one can otherwise obtain today.)
+
+There are still lots of questions about how this will diffuse and get adopted, but it seems very clear that medical practice is about to improve enormously. Exciting times!

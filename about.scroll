@@ -1,0 +1,118 @@
+// publicationLabel Date not stated
+title About
+date 1900-01-01
+canonicalUrl https://patrickcollison.com/about
+
+post-header.scroll
+
+span
+ id content
+
+image assets/c8fb71a5f8dbf855.jpg
+
+I live in California and mainly work on Stripe, which builds programmable financial infrastructure. I cofounded the Arc Institute, which trains biology AI models and works on complex human diseases. I grew up in Ireland and previously studied at MIT.
+ linkify false
+ link https://stripe.com Stripe
+ link https://arcinstitute.org Arc Institute
+ link https://en.wikipedia.org/wiki/Multifactorial_disease complex human diseases
+
+Email: patrick@collison.ie.
+ linkify false
+ link mailto:patrick@collison.ie patrick@collison.ie
+
+Things I'm interested in:
+ linkify false
+
+- Economic growth. Stripe's core mission, so I think about it a lot.
+ linkify false
+ bold Economic growth.
+ link https://stripe.com Stripe's
+
+- Entrepreneurship. Stripe Atlas helps many new companies get started. (Around a quarter of new Delaware corporations, as of mid 2026.)
+ linkify false
+ bold Entrepreneurship.
+ link https://stripe.com/atlas Stripe Atlas
+
+- Capital. Private equity, private credit, and capital markets generally don't exactly have burnished reputations, but I believe that US outperformance post the GFC (vs the rest of the OECD) is substantially attributable to more abundant capital in the US. What are the policy implications of this for the rest of the world? And how can the US be improved still further here?
+ linkify false
+ bold Capital.
+
+- Europe. It's currently off-track, falling behind the US in key technologies and general prosperity. What can be done?
+ linkify false
+ bold Europe.
+
+- Aesthetics. Why is contemporary architecture so ugly? What comes after modernism? Tyler Cowen and I started the New Aesthetics grant program.
+ linkify false
+ bold Aesthetics.
+ link https://newaesthetics.art/ New Aesthetics
+
+- Urbanism. Why did we seemingly lose the ability to build pleasant new cities? Why are Greenwich Village or the North End so much nicer than any neighborhoods built in the US over the past century? What can we do about it? I'm an investor in California Forever and Esmeralda, which are in different ways trying to tackle this problem.
+ linkify false
+ bold Urbanism.
+ link https://californiaforever.com California Forever
+ link https://esmeralda.org Esmeralda
+
+- Religion. We live in a post-Christian West, but the need for metaphysics hasn't diminished (and the rest of the world is not so secular). AI raises new questions still. Where will we go next?
+ linkify false
+ bold Religion.
+
+- Climate. We still need to not overheat! Stripe started Frontier, which is the largest coalition of carbon removal purchasers in the world.
+ linkify false
+ bold Climate
+ link https://frontierclimate.com/ Frontier
+
+- Policy. I often agree with those of a supply-side, free market, and abundance-oriented persuasion. I appreciate the work of Progress Ireland and the Institute for Progress.
+ linkify false
+ bold Policy.
+ link https://progressireland.org Progress Ireland
+ link https://ifp.org Institute for Progress
+
+- Books and ideas. Stripe Press and Works in Progress both publish on the theme of economic and technological advancement. Tyler Cowen and I helped start Progress Studies. Why did the age of the great novel pass? Are we becoming a post-literate society? (What would Walter Ong think of the current moment?)
+ linkify false
+ bold Books and ideas.
+ link https://press.stripe.com Stripe Press
+ link https://worksinprogress.co/ Works in Progress
+ link https://patrickcollison.com/progress Progress Studies
+
+- Science. How can science be better funded and supported? How do we enable the smartest researchers most effectively? What needs to change as new platform technologies (including but not only AI) transform what's possible? Arc Institute is a new way to do biomedical research. Intercept is trying to eliminate respiratory infections. Fast Grants distributed substantial amounts to scientists during the COVID pandemic.
+ linkify false
+ bold Science
+ link https://arcinstitute.org Arc Institute
+ link https://www.interceptfund.com Intercept
+ link https://fastgrants.org Fast Grants
+
+### Elsewhere
+ linkify false
+
+pc on GitHub; patrickc on Twitter.
+ linkify false
+ link https://github.com/pc pc
+ link https://twitter.com/patrickc patrickc
+
+### Interviews
+ linkify false
+
+A few interviews from the past few years. They're mostly about Stripe but other topics make their way in too:
+ linkify false
+
+- Interviews: Michael Truell (2025), Dwarkesh Patel (2024), Ezra Klein (2022), Noah Smith (2021), Reid Hoffman (2019), Guy Raz (2018), Shane Parrish (2018; transcript), Tim Ferriss (2018; transcript), John Lilly (2015).
+ linkify false
+ link https://www.youtube.com/watch?v=motX94ztOzo Michael Truell
+ link https://www.youtube.com/watch?v=WU-lBOAS1VQ Dwarkesh Patel
+ link https://www.nytimes.com/2022/09/27/opinion/ezra-klein-podcast-patrick-collison.html?eafs_enabled=false Ezra Klein
+ link https://www.noahpinion.blog/p/interview-patrick-collison-co-founder Noah Smith
+ link https://www.youtube.com/watch?v=Avqi1HeRlCQ Reid Hoffman
+ link https://podcasts.apple.com/us/podcast/stripe-patrick-and-john-collison/id1150510297?i=1000410843116 Guy Raz
+ link https://www.fs.blog/2018/05/patrick-collison/ Shane Parrish
+ link https://s3.amazonaws.com/fs-lc/2018/Podcast/Transcripts/Patrick+Collison.pdf transcript
+ link https://tim.blog/2018/12/20/patrick-collison/ Tim Ferriss
+ link https://tim.blog/2018/12/24/the-tim-ferriss-show-patrick-collison/ transcript
+ link https://medium.com/notes-essays-cs183c-technology-enabled-blitzscalin/class-11-notes-essay-reid-hoffman-john-lilly-chris-yeh-and-allen-blue-s-cs183c-technology-ebf34cebae26#.4ecj29w55 John Lilly
+
+- I interview: Tyler Cowen, Jony Ive, Jensen Huang.
+ linkify false
+ link https://medium.com/conversations-with-tyler/patrick-collison-stripe-podcast-tyler-cowen-books-3e43cfe42d10 Tyler Cowen
+ link https://www.youtube.com/watch?v=wLb9g_8r-mE Jony Ive
+ link https://www.youtube.com/watch?v=8Pfa8kPjUio Jensen Huang
+
+footer.scroll
