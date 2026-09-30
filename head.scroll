@@ -1,6 +1,8 @@
 importOnly
-
+baseUrl https://bupatrick.breck.lol/
+openGraphImage patrick-hedcut.png
 blog.parsers
+editBaseUrl https://github.com/breck7/bupatrick/blob/main/
 bu.scroll
 replace BU_SITE_NAME bupatrick
 replace BU_SITE_DESCRIPTION boo Patrick Collison. made by @breckyunits

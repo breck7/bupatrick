@@ -23,7 +23,9 @@ def configure(root=ROOT):
     description = f'boo {author}. made by @breckyunits'
     (root / 'head.scroll').write_text(f'''importOnly
 {('baseUrl ' + base) if base else ''}
+openGraphImage patrick-hedcut.png
 blog.parsers
+editBaseUrl https://github.com/breck7/{name}/blob/main/
 bu.scroll
 replace BU_SITE_NAME {name}
 replace BU_SITE_DESCRIPTION {description}
